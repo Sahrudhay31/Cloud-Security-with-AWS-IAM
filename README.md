@@ -26,8 +26,7 @@ Control access to EC2 instances using IAM policies and tags.
 - Tag-based access control
 - Role-based access
 
-## 📸 Screenshots
-(Add images here)
+
 
 ## 🚀 Result
 User can access only development resources, not production.
